@@ -36,3 +36,11 @@ $ ssh -T git@github.com-User1
 $ ssh -T git@github.com-User2
 ```
 
+##### sshユーザーを指定してclone
+
+```
+$ git clone git@github.com-User1:User1/Project.git
+$ git clone git@github.com-User2:User2/Project.git
+```
+
+これで好きなようにpush等が可能になります。  
