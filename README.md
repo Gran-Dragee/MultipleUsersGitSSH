@@ -4,8 +4,8 @@
 
 ```
 $ cd ~/.ssh
-$ ssh-keygen -t rsa -C "user1@..."
-$ ssh-keygen -t rsa -C "user2@..."
+$ ssh-keygen -t rsa -C "user1@gmail.com"
+$ ssh-keygen -t rsa -C "user2@gmail.com"
 ```
 
 ##### configファイルの作成
